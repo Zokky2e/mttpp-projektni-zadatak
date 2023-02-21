@@ -1,4 +1,4 @@
-# mtttp-projektni-zadatak
+# mttpp-projektni-zadatak
 ## Intro
 In this project, Selenium WebDriver is used to test basic functionalities of my final paper web application, which is hosted via firebase hosting services and the link to the hosted app is here: https://zavrsni-3652b.web.app/
 
