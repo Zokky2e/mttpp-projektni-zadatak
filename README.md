@@ -13,12 +13,17 @@ Packages:
 * Selenium Support(4.6.0)
 * Nunit3 Test Adapter (4.3.1)
 * Selenium WebDriver – Gecko Driver (0.32.0) – for firefox browser
-##Running the tests
+## Running the tests
 ### In Visual Studio
 * Test -> Windows -> Test Explorer
 * Tests are visible only after innital build
 * Build -> Build Solution
 * In Test Explorer -> Run Tests(the green arrow)
+* Sit, relax and watch tests pass with ease
 
+## Final words
+After trying out automated tests, I've come with 2 conclusions
+* Automated frontend tests make repetitive actions quicker
+* Automated tests can be a pain if the frontend does not have unique ids on elements
 
 
